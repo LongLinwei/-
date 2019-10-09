@@ -1,3 +1,0 @@
-邮箱账号：your email
-邮箱授权码：key
-如何获取邮箱授权码，请参考https://jingyan.baidu.com/article/fedf0737af2b4035ac8977ea.html
